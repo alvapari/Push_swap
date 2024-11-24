@@ -19,9 +19,9 @@ Esa es la clave: hacer lo que hay que hacer, pero hacerlo rápido.
 ### Documentación:
 
 Si quieres ver la **documentación completa** del proyecto, puedes ver estos apuntes: <br> 
-https://42guideprojects.notion.site/Push_swap-4e533a20e801404e8a7785e8b26b4c56
+[DOCUMENTACIÓN](https://42guideprojects.notion.site/Push_swap-4e533a20e801404e8a7785e8b26b4c56)
 
 ### Requerimientos:
 
 Si quieres leer los requerimientos del proyecto, puedes encontrarlos aquí: <br> 
-https://github.com/user-attachments/files/17882123/es.subject.pdf
+[REQUERIMIENTOS](https://github.com/user-attachments/files/17882123/es.subject.pdf)
